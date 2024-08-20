@@ -1,0 +1,10 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+#navbarSupportedContent{
+    border: 1px solid red;
+}
+#carouselExampleInterval{
+    border: 1px solid red;
+}
